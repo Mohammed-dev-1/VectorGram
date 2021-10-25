@@ -1,0 +1,13 @@
+.profile-image-container {
+  position: relative;
+}
+.profile-image {
+  position: absolute;
+  bottom: 2px;
+  right: 15px;
+  width: 35px;
+  height: 35px;
+  border-radius: 100%;
+  color: #eee;
+  background: rgba(0, 0, 0, 0.7);
+}
